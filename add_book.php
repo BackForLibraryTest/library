@@ -5,7 +5,7 @@ $connection = mysqli_connect("localhost", "root" ,"", "library_app");
 
 
 
-if($_SERVER['REQUEST_METHOD'] == 'POST')
+if(1)
 {
 
 
